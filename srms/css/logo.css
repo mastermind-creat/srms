@@ -1,0 +1,12 @@
+*{
+    align-items: center;
+}
+
+h6{
+    height: 50px;
+    width: 50px;
+    border-radius:25px;
+}
+img{
+    display: flex;
+}
